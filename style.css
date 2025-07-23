@@ -103,3 +103,10 @@
     font-size: 1.5rem;
     display: inline-block;
 }
+/* This is the end of the navbar section. It is rendering correctly as per my expectation. INNER PEACE!! */
+/* This is the start of the navigation  */
+.navigation-section{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+}
