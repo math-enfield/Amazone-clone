@@ -8,18 +8,22 @@
     height: 60px;
     background-color: #0f1111;
     color: white;
+    display: flex;
+    align-items: center;
 }
 /* nav-logo (this is the parent container for the logo) */
 /*box-1 */
 .nav-logo{
     height: 50px;
     width: 100px;
-    /* background-color: blueviolet; */
+    padding: 5px;
 }
 /* This is the the actual logo div itself */
 .logo{
-    height: 50px;
-    width: 100%;
     background-image: url(images/amazon_logo.png);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
 }
