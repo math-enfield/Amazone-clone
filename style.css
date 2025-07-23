@@ -27,3 +27,11 @@
     height: 100%;
     width: 100%;
 }
+/* add border in boxes for the hover  */
+.border{
+    border: 1.5px solid transparent;
+}
+/* add hover settings */
+.border:hover{
+    border: 1.5px solid white;
+}
