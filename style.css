@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding: 0px;
-    color: white;
+    font-family: Arial;
+    border: border-box;     /*for making the border within the designated space*/
 }
 /*nav-bar*/
