@@ -35,3 +35,11 @@
 .border:hover{
     border: 1.5px solid white;
 }
+.navaddress{
+    align-items: center;
+}
+.add-first{
+    font-size: 0.75rem;
+    color: #cccc;
+    margin-left: 24px;
+}
