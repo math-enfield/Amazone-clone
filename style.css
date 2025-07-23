@@ -118,3 +118,7 @@
 .all{
     font-weight:600;
 }
+.nav-ops span{
+    margin-left: 12px;
+    font-size: 0.9rem;
+}
