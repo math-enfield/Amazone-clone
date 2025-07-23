@@ -85,3 +85,13 @@
 .accounts{
     display: block;
 }
+/* this is the return section box  */
+.return-section{
+    margin: 0 10px;
+}
+.return{
+    font-size: 0.8rem;
+}
+.orders{
+    display: block;
+}
