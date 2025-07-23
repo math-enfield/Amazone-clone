@@ -109,4 +109,12 @@
     height: 40px;
     background-color: #222f3d;
     color: white;
+    display: flex;
+    align-items: center;
+}
+.all-button{
+    margin-left: 15px;
+}
+.all{
+    font-weight:600;
 }
