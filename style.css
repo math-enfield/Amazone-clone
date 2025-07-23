@@ -51,16 +51,21 @@
     /* width: 900px; */ /*this was removed on suggestion by gemini for good scalability*/
     flex-grow: 1;
     margin: 0 15px;
+    border: 2px solid transparent;
+    border-radius: 4px 4px;
+}
+.search-panel:hover{
+    border: 2px solid orange;
 }
 .all-panel{
-    margin-left: 20px;
+    /* margin-left: 20px; */
     height: 45px;
     width: 40px;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
 }
 .search-bar{
-    width: 90%; 
+    width: 100%; 
 }
 .search-glass{
     height: 45px;
@@ -72,4 +77,11 @@
     border: none;
     border-bottom-right-radius: 4px;
     border-top-right-radius: 4px;
+}
+/* This is the accounts box  */
+.sign-in{
+    font-size: 0.8rem;
+}
+.accounts{
+    display: block;
 }
