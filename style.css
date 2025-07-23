@@ -95,3 +95,11 @@
 .orders{
     display: block;
 }
+/* This is the cart section  */
+.cart-section{
+    margin: 0 15px;
+}
+.cart-logo{
+    font-size: 1.5rem;
+    display: inline-block;
+}
