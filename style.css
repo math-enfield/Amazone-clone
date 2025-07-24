@@ -172,3 +172,16 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+/* This is the end of the shop-section and the main section  */
+/* Now we will start with our footer section  */
+.top-link{
+    height: 50px;
+    background-color: #222f3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top-g{
+    color: white;
+    text-decoration: none;
+}
