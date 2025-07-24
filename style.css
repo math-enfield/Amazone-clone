@@ -151,6 +151,7 @@
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap; /*this is the present to wrap the flexes and not force them all in a single line*/
+    padding-bottom: 15px;
 }
 .box{
     height: 400px;
