@@ -141,3 +141,16 @@
     margin-bottom: 40px;
     width: 80%;
 }
+/* this is the end of the hero-section of the page  */
+.shop-section{
+    background-color: #e2e7e6;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap; /*this is the present to wrap the flexes and not force them all in a single line*/
+}
+.box{
+    height: 400px;
+    background-color: white;
+    width: 23%;
+    margin: 15px 0;
+}
